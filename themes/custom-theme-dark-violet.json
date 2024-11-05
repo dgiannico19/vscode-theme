@@ -2,52 +2,52 @@
   "name": "Custom Mich Pastel Theme",
   "type": "dark",
   "colors": {
-    "editor.background": "#3a2d57",
+    "editor.background": "#2E1E48",
     "editor.foreground": "#E6E6FA",
     "editorLineNumber.foreground": "#B0C4DE",
-    "sideBar.background": "#4B3F73",
+    "sideBar.background": "#3A264B",
     "sideBar.foreground": "#E6E6FA",
-    "activityBar.background": "#3A2D57",
-    "statusBar.background": "#3A2D57",
+    "activityBar.background": "#3A264B",
+    "statusBar.background": "#4A3666",
     "statusBar.foreground": "#FFF5EE"
   },
   "tokenColors": [
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#A2B5FF",
+        "foreground": "#ADB5E8",
         "fontStyle": "italic"
       }
     },
     {
       "scope": "string",
       "settings": {
-        "foreground": "#F5A8B3"
+        "foreground": "#F5C8D3"
       }
     },
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#8EE5EE"
+        "foreground": "#6AC9D5"
       }
     },
     {
       "scope": ["constant", "constant.numeric"],
       "settings": {
-        "foreground": "#FFD7B0"
+        "foreground": "#FFD9B5"
       }
     },
     {
       "scope": ["keyword", "keyword.control"],
       "settings": {
-        "foreground": "#FA8072",
+        "foreground": "#FF8678",
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["variable.language", "variable.language.const", "variable.language.let"],
       "settings": {
-        "foreground": "#FF4500",
+        "foreground": "#FF6750",
         "fontStyle": "bold"
       }
     },
@@ -61,7 +61,7 @@
     {
       "scope": ["constant.language.null", "constant.language.undefined"],
       "settings": {
-        "foreground": "#FFB6C1"
+        "foreground": "#FFC5D9"
       }
     },
     {
