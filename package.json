@@ -2,7 +2,7 @@
   "name": "custom-theme",
   "displayName": "Custom Mich Theme",
   "publisher": "dgiannico19",
-  "description": "Creo un tema para ir amoldandolo a mis gustos",
+  "description": "Temas según colores",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
@@ -15,10 +15,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Custom Mich theme",
+        "label": "Custom dark violet theme",
         "uiTheme": "vs-dark",
         "path": "./themes/custom-theme-dark-violet.json"
-      }
+      },
+      {
+        "label": "Custom light violet theme",
+        "uiTheme": "vs-light",
+        "path": "./themes/custom-theme-light-violet.json"
+      }      
     ]
   }
 }
