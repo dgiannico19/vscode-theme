@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/dgiannico19/vscode-theme.git"
   },
+  "icon": "icon-128x128.png",
   "contributes": {
     "themes": [
       {
@@ -23,7 +24,12 @@
         "label": "Custom light violet theme",
         "uiTheme": "vs-light",
         "path": "./themes/custom-theme-light-violet.json"
-      }      
+      },
+      {
+        "label": "Custom dark Janis theme",
+        "uiTheme": "vs-dark-janis",
+        "path": "./themes/custom-theme-dark-janis.json"
+      }     
     ]
   }
 }
