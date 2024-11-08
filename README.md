@@ -4,20 +4,22 @@
 
 ## Descripción
 
-**Custom Mich Pastel Theme** es un tema personalizado para Visual Studio Code diseñado especialmente para los amantes de los tonos pastel. Este theme ofrece una experiencia visual agradable y relajante, con un enfoque en la legibilidad y la estética. 
+**Custom Mich Pastel Theme** es un tema personalizado para Visual Studio Code diseñado especialmente para poder adaptar un theme a mi necesidad y a su vez ir agregando mas. Estos themes ofrecen una experiencia visual agradable y relajante, con un enfoque en la legibilidad y la estética. 
 
 ### Características
 
 - **Tonos pastel**: Colores suaves y armoniosos que hacen que el código sea fácil de leer.
 - **Versiones Light y Dark**: Elige entre una experiencia clara y luminosa o una opción más oscura y acogedora.
 - **Enfoque en el violeta**: Colores inspirados en el violeta que aportan un toque único al entorno de desarrollo.
+- **Enfoque en paleta**: Colores inspirados en paleta de colores que aportan un toque único al entorno de desarrollo.
 - **Optimización de contraste**: Colores cuidadosamente seleccionados para asegurar una buena legibilidad y una experiencia de codificación agradable.
+- **Tonos relacionados a paleta de colores específica.
 
 - ACTUALMENTE NO ESTA PUBLICADA PARA INSTALAR DIRECTAMENTE 
 
 ## Precondiciones
 
-1. Tener instalada la herramienta para epaquetar el theme (vsce)
+1. Tener instalada la herramienta para empaquetar el theme (vsce)
 
 ## Instalación
 
@@ -27,7 +29,7 @@
 4. Clickear en opciones y seleccionar la opcion "Instalar desde VSIX..."
 5. Busca en la carpeta del proyecto, el archivo con extension .vsix.
 4. Haz clic en **Instalar**.
-5. Ve a la configuración del tema (`File > Preferences > Color Theme`) y selecciona **Custom dark violet theme** o **Custom light violet theme**.
+5. Ve a la configuración del tema (`File > Preferences > Color Theme`) y selecciona alguno de la lista.
 
 ## Uso
 
@@ -35,7 +37,7 @@ Para cambiar entre los temas, sigue estos pasos:
 
 1. Abre la paleta de comandos (`Ctrl+Shift+P`).
 2. Escribe "Color Theme" y selecciona `Preferences: Color Theme`.
-3. Elige entre **Custom dark violet theme** o **Custom light violet theme**.
+3. Elige entre los disponibles.
 
 ## Contribuciones
 
