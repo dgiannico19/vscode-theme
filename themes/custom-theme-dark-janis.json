@@ -15,7 +15,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#A8AAAC",
+        "foreground": "#BCC1C7",
         "fontStyle": "italic"
       }
     },
@@ -26,15 +26,15 @@
       }
     },
     {
-      "scope": "variable",
+      "scope": "variable.other.readwrite", 
       "settings": {
         "foreground": "#08C4C4"
       }
     },
     {
-      "scope": ["constant", "constant.numeric"],
+      "scope": ["variable.other.constant", "constant", "constant.numeric"],
       "settings": {
-        "foreground": "#FFCE17"
+        "foreground": "#6A9BD8"
       }
     },
     {
@@ -54,7 +54,7 @@
     {
       "scope": ["entity.name.function", "meta.function-call"],
       "settings": {
-        "foreground": "#BB98F1",
+        "foreground": "#91A4E8",
         "fontStyle": "bold"
       }
     },
@@ -85,7 +85,7 @@
     {
       "scope": "method",
       "settings": {
-        "foreground": "#FFA33F"
+        "foreground": "#F0A94B"
       }
     },
     {
@@ -131,7 +131,7 @@
       }
     },
     {
-      "scope": "variable",
+      "scope": "variable.other.property",
       "settings": {
         "foreground": "#BB98F1"
       }
