@@ -26,9 +26,9 @@
         "path": "./themes/custom-theme-light-violet.json"
       },
       {
-        "label": "Custom dark Janis theme",
-        "uiTheme": "vs-dark-janis",
-        "path": "./themes/custom-theme-dark-janis.json"
+        "label": "Custom dark Blue theme",
+        "uiTheme": "vs-dark-blue",
+        "path": "./themes/custom-theme-dark-blue.json"
       }     
     ]
   }
